@@ -21,5 +21,9 @@
 현황/통계: 관리자용 ⑦기기현황목록(상태·위치·이용률), ⑧통계리포트(노쇼율, 피크시간, 고장빈도)
 
 
+
+
+
+
 #USECASE
 <img width="630" height="791" alt="TPFVQXf15CRlvoaENfaBi_LFOfgB45l82uGym7QT9WkRNT3rgXHCdDZG20qKgQQQ6h2sWIrOOybUs9i-ZdFc7Jfcri4bAuXySxxVdFCTXjsl-cR5hvqwv9Nt1Z9xK79iYy8kd537yGXnw5iVV0ygzl693sMxGYtVzbnYMhvNWHIU1tXpZxVNQT7kOgE_aGAp2aTBUpwjyr6mi4lbKzjLRabV" src="https://github.com/user-attachments/assets/cea18773-85eb-4732-b3f8-c994f3d763ff" />
